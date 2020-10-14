@@ -1,4 +1,8 @@
 # Gloucestershire Constabulary Bike Registry System
+## [Kyle Dormer](https://github.com/kyle-dormer) was a contributor of this project
+
+## Grade achieved: 85/100 (First)
+
 
 This is a group assignment to produce a website using HTML, CSS, JavaScript, PHP and MySQL.
 
@@ -6,22 +10,19 @@ This is a group assignment to produce a website using HTML, CSS, JavaScript, PHP
 
 ### Public
 
-- [ ] Home page
-- [ ] Login page
-- [ ] Registration page
-- [ ] Bike list page
-- [ ] Bike reporting stolen page
-- [ ] Bike registration page
-- [ ] Bike investigation (public)
+- [X] Home page
+- [X] Login page
+- [X] Registration page
+- [X] Bike list page
+- [X] Bike reporting stolen page
+- [X] Bike registration page
+- [X] Bike investigation (public)
 
 ### Police
 
-- [ ] Admin page
-- [ ] Bike list page (repurpose code)
-- [ ] Ebay results (split page JS)
-- [ ] Bike investigation + reporting (split page JS)
-- [ ] Incident map page
-- [ ] Comparison of bikes page between eBay and DB
+- [X] Admin page
+- [X] Bike investigation + reporting (split page JS)
+- [X] Incident map page
 
 ## Scenario
 
